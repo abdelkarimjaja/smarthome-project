@@ -13,5 +13,6 @@ We've developped a protype of smarthome. First, we've adjust the lumosity of roo
 8. USB cable
 # Software Used:
 1. Arduino IDE
+2. Node-RED
+3. InfluxDB
 
-# Schematic of project
