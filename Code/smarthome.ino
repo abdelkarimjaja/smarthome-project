@@ -1,3 +1,9 @@
+/**
+* @file smarthome.ino
+* @authors ELMehdi Atri 
+*          JAJA Abdelkarim   
+*          Armali Houda
+**/
 #if defined(ESP32)
 #include <WiFiMulti.h>
 WiFiMulti wifiMulti;
